@@ -10,7 +10,7 @@
     * [云市场-客户篇](articles/201806/article7.md)
     * [移动办公打印难？用友魔盒一触即打](articles/201806/article8.md)
     * [4A，夯实企业数字化转型中的身份安全管理（一）](articles/201806/article9.md)
-    * [主数据管理的前世今生](articles/201806/article10.md)
+    * [用友云普罗米修斯全范围监控体系](articles/201806/article10.md)
 * [用友云7月](articles/201807/)
     * [XXXXX](articles/201807/article1.md)
     * [XXXXX](articles/201807/article2.md)
