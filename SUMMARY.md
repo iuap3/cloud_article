@@ -7,7 +7,7 @@
     * [浅谈bPaaS模式下的数据隔离](articles/201806/article4.md)
     * [我叫友户通，不是友互通](articles/201806/article5.md)
     * [用友云生态伙伴类型及融合流程解读](articles/201806/article6.md)
-    * [主数据管理的前世今生](articles/201806/article7.md)
+    * [云市场-客户篇](articles/201806/article7.md)
     * [主数据管理的前世今生](articles/201806/article8.md)
     * [主数据管理的前世今生](articles/201806/article9.md)
     * [主数据管理的前世今生](articles/201806/article10.md)
