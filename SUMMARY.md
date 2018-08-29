@@ -1,6 +1,6 @@
 # 用友云市场
 
-* [用友云6月](articles/yycloud/1-/zero.md)
+* [用友云6月](articles/201806/)
     * [主数据管理的前世今生](articles/yycloud/1-/README.md)
 * [用友云7月](articles/yycloud/3-/zero.md)
     * [云市场简介](articles/yycloud/3-/yunshichang.md)
