@@ -8,7 +8,7 @@
     * [我叫友户通，不是友互通](articles/201806/article5.md)
     * [用友云生态伙伴类型及融合流程解读](articles/201806/article6.md)
     * [云市场-客户篇](articles/201806/article7.md)
-    * [主数据管理的前世今生](articles/201806/article8.md)
+    * [移动办公打印难？用友魔盒一触即打](articles/201806/article8.md)
     * [主数据管理的前世今生](articles/201806/article9.md)
     * [主数据管理的前世今生](articles/201806/article10.md)
 * [用友云7月](articles/201807/)
