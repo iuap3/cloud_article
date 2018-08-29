@@ -1,7 +1,7 @@
 # 用友云市场
 
 * [用友云6月](articles/201806/)
-    * [主数据管理的前世今生](articles/201806/article1.md)
+    * [数据湖：装在“新瓶”里的大数据](articles/201806/article1.md)
     * [主数据管理的前世今生](articles/201806/article2.md)
 * [用友云7月](articles/yycloud/3-/zero.md)
     * [云市场简介](articles/yycloud/3-/yunshichang.md)
