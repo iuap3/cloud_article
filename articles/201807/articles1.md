@@ -157,10 +157,10 @@ COPY Gemfile /Gemfile
 ENV http_proxy=http://10.3.15.206:8888
 ENV https_proxy=http://10.3.15.206:8888
 
-# 1. Install & configure dependencies.
-# 2. Install fluentd via ruby.
-# 3. Remove build dependencies.
-# 4. Cleanup leftover caches & files.
+＃1.Install & configure dependencies.
+＃2.Install fluentd via ruby.
+＃3.Remove build dependencies.
+＃4. Cleanup leftover caches & files.
 RUN BUILD_DEPS="make patch gcc g++ libc6-dev ruby-dev" \
     && clean-install $BUILD_DEPS \
                      ca-certificates \
@@ -179,16 +179,16 @@ RUN BUILD_DEPS="make patch gcc g++ libc6-dev ruby-dev" \
     &&ln -sf /usr/share/zoneinfo/Asia/Shanghai /etc/localtime \
     && echo "Asia/Shanghai" > /etc/timezone 
 
-# Copy the Fluentd configuration file for logging Docker container logs.
+＃ Copy the Fluentd configuration file for logging Docker container logs.
 COPY fluent.conf /etc/fluent/fluent.conf
 COPY run.sh /run.sh
 
-# Expose prometheus metrics.
+＃ Expose prometheus metrics.
 EXPOSE 80
 
 ENV LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libjemalloc.so.1
 
-# Start Fluentd to pick up our config that watches Docker container logs.
+＃ Start Fluentd to pick up our config that watches Docker container logs.
 CMD /run.sh $FLUENTD_ARGS
 2. 构建镜像
 docker build –t10.3.15.191:5000/tools/fluentd-http:0.3 .
