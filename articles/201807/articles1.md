@@ -236,6 +236,7 @@ ENV LD_PRELOAD=/usr/lib/x86_64-linux-gnu/libjemalloc.so.1
 
 ＃ Start Fluentd to pick up our config that watches Docker container logs.
 CMD /run.sh $FLUENTD_ARGS
+
 2. 构建镜像
 docker build –t10.3.15.191:5000/tools/fluentd-http:0.3 .
 
