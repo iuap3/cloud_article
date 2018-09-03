@@ -19,7 +19,7 @@
 	* [用友云iPaaS赋能企业混合云集成](articles/201807/articles4.md)
 	* [基于开发者中心DevOps流水线实现快速上云](articles/201807/articles5.md)
 	* [浅谈如何打造一个安全、稳定、高效的容器云平台](articles/201807/articles6.md)
-	* [用友开放平台之API网关](articles/201807/articles7.md)
+	* [用友云开放平台之API网关](articles/201807/articles7.md)
 	* [微服务下的统一数据查询](articles/201807/articles8.md)
 	* [玩事业务中台构建之路](articles/201807/articles9.md)
 	
