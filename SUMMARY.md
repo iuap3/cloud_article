@@ -30,7 +30,7 @@
 	* [这个需求我不接之事务的自动补偿](articles/201808/articles4.md)
 	* [用友云服务治理平台助力企业微服务架构落地](articles/201808/articles5.md)
 	* [微服务项目实践之中建项目](articles/201808/articles6.md)
-	* [微服务下熔断降级机制](articles/201808/articles7.md)
+	* [微服务熔断隔离机制及注意事项](articles/201808/articles7.md)
 	* [微服务治理平台的RPC方案实现](articles/201808/articles8.md)
 	* [数字澳洋背后的用友云混合云架构支撑](articles/201808/articles9.md)
 
