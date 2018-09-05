@@ -5,6 +5,15 @@
         "key": "1",
         "list": [
             {
+                "title": "Docker实战",
+                "link": "cloud_article/articles/201807/article1.md",
+                "intro": "本文系统性介绍Docker安装、Docker组件、Docker命令、Dockerfile语法和Docker应用。语言平实，介绍全面简介。",
+                "author": "佚名",
+                "time": "2018/07/08",
+                "type": "技术类",
+                "reading": 88
+            },
+            {
                 "title": "数据湖：装在“新瓶”里的大数据",
                 "link": "cloud_article/articles/201806/article1.md",
                 "intro": "本系列文章旨在让读者对数据湖有深入的认识，数据湖到底是什么？什么是大数据的新瓶子？如何避免“数据沼泽”的产生，它与数据仓库到底有什么不同？对这些问题的疑问，将在数据湖系列文章中予以阐明。",
